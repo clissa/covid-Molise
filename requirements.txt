@@ -1,0 +1,16 @@
+# utils
+psutil
+requests
+
+# data management
+pandas
+
+# visualization
+matplotlib
+plotly
+plotly-orca
+dash
+
+# modelling
+statsmodels
+pmdarima

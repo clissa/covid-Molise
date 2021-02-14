@@ -2,8 +2,7 @@
 results/
 
 # PyCharm
-**/.idea/workspace.xml
-**/.idea/tasks.xml
+**/.idea/*
 
 ### Template
 # Byte-compiled / optimized / DLL files

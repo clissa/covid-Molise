@@ -67,4 +67,4 @@ def SARIMAX(data, setting, exogenous, start_training, end_training, end_predicti
     # Here we construct a more complete results object.
     forecast = model.get_forecast(end_prediction)
     # format_prediction(setting, data, forecast)
-    return forecast
+    return forecast, model

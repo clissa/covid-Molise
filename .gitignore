@@ -1,6 +1,10 @@
 ### Custom
 results/
 
+# PyCharm
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
 ### Template
 # Byte-compiled / optimized / DLL files
 __pycache__/

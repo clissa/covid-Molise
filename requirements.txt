@@ -2,6 +2,9 @@
 psutil
 requests
 
+# analysis
+jupyter
+
 # data management
 pandas
 
